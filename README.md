@@ -75,7 +75,7 @@ Dataset berisi nilai Indeks Pemberdayaan Gender (IDG) untuk ratusan kabupaten/ko
 ## Struktur Project
 
 ```
-├── Classification_and_Regression_Indeks_Pemberdayaan_Gender_IKG.ipynb   # Notebook analisis lengkap
+├── Classification_and_Regression_Indeks_Pemberdayaan_Gender.ipynb  # Notebook analisis lengkap
 └── Indeks Pemberdayaan Gender 2021-2023.csv                            # Dataset
 ```
 
@@ -90,7 +90,7 @@ cd Classification-and-Regression-Gender-Empowerment-Index
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 # 3. Jalankan notebook
-jupyter notebook Classification_and_Regression_Indeks_Pemberdayaan_Gender_IKG.ipynb
+jupyter notebook Classification_and_Regression_Indeks_Pemberdayaan_Gender.ipynb
 ```
 
 ## Pengembangan Selanjutnya
