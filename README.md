@@ -2,6 +2,8 @@
 
 Analisis data **Indeks Pemberdayaan Gender (IDG)** kabupaten/kota di Indonesia periode 2021-2023, menggunakan pendekatan **klasifikasi (KNN)** untuk mengelompokkan wilayah berdasarkan kategori IDG, dan **regresi (Linear Regression)** untuk memproyeksikan nilai IDG tahun 2024.
 
+> *Project ini dikerjakan sebagai tugas mata kuliah Pengantar Data Mining (Introduction to Data Mining) pada semester 5.*
+
 ## Latar Belakang
 
 Indeks Pemberdayaan Gender (IDG) mengukur sejauh mana perempuan berperan aktif dalam kehidupan ekonomi dan politik di suatu wilayah. Nilai IDG bervariasi cukup signifikan antar kabupaten/kota di Indonesia, dan mengetahui wilayah mana yang tertinggal dapat membantu pemerintah menentukan prioritas kebijakan pemberdayaan perempuan secara lebih terarah.
@@ -102,4 +104,3 @@ jupyter notebook Classification_and_Regression_Indeks_Pemberdayaan_Gender.ipynb
 ## Author
 
 **Muhammad Danu Setiawan**
-[LinkedIn](https://www.linkedin.com/in/muhammaddanusetiawan/) · [GitHub](https://github.com/DanuSetiawan05)
